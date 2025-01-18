@@ -6,36 +6,9 @@
  
 ## :bulb: About
 
-> -- Vaughn Vernon
-
-**Scalability** and **Resilience** require **low coupling** and **high cohesion**, principles strongly linked to the proper understanding of the business through **well-defined boundaries**, combined with a healthy and
-efficient integration strategy such as **Event-driven Architecture** (EDA).
-
-The [**Event Storming**](https://www.eventstorming.com/) workshop provides a practical approach to **subdomain decomposition**, using **Pivotal Events** to correlate business capabilities across **Bounded Contexts** while promoting **reactive
-integration** between Aggregates.
-
-The **reactive** integration between **Bounded Contexts** configures an **Event-driven Architecture** (EDA) where **Commands** are acknowledged and sent to the Bus by the Web API (BFF/Gateway) while **Events** are
-broadcasted to the **Query** side and/or other Aggregates.
-
-**Independence**, as the main characteristic of a **Microservice**, can only be found in a **Bounded Context**.
-
-The [**Event Sourcing**](https://www.eventstore.com/event-sourcing) is a proprietary implementation that, in addition to being **naturally auditable** and **data-driven**, represents the most efficient persistence mechanism ever. An **eventual state
-transition** Aggregate design is essential at this point. The **Event Store** comprises EF Core (ORM) + MSSQL (Database).
-
-> State transitions are an important part of our problem space and should be modeled within our domain.  
-> -- Greg Young
-
-[**Projections**](https://www.eventstore.com/event-sourcing#Projections) are **asynchronously denormalized** and stored on a NoSQL Database(MongoDB); Nested documents should be avoided here; Each projection has its index and **fits perfectly into a view or component**,
-mitigating unnecessary data traffic and making the reading side as efficient as possible.
-
-The splitting between **Command** and **Query** stacks occurs logically through the [**CQRS**](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf) pattern and fiscally via a **Microservices** architecture. Each stack is an individual deployable unit with its database,
-and the data flows from Command to Query stack via **Domain** and/or **Summary** events.
-
-As a **domain-centric** approach, [**Clean Architecture**](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) provides the appropriate isolation between the **Core** (Application + Domain) and "times many" **Infrastructure** concerns.
+> [!Warning] > **This organization is under constant update, and is never stable, we fork out projects to create streams, providing better stablility**
 
 ### :star: Give a Star!
-
-Support this research by **giving it a star**. Thanks!
 
 ## :mag_right: Research
 
