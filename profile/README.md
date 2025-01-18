@@ -37,16 +37,6 @@ As a **domain-centric** approach, [**Clean Architecture**](https://blog.cleancod
 
 Support this research by **giving it a star**. Thanks!
 
-## :classical_building: The Solution Architecture
-
-### V2
-
-![](https://raw.githubusercontent.com/AntonioFalcaoJr/EventualShop/release/.assets/img/solution_architecture_v2.png)
-
-### V1
-
-![](https://raw.githubusercontent.com/AntonioFalcaoJr/EventualShop/release/.assets/img/solution_architecture_v1.png)
-
 ## :mag_right: Research
 
 <details>
