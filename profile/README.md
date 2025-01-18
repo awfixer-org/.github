@@ -1,15 +1,3 @@
-# ![](https://raw.githubusercontent.com/AntonioFalcaoJr/EventualShop/release/.assets/img/new_logo.png)
-
-<p align="center">
-  <a href="#bulb-about">About</a> &nbsp;&bull;&nbsp;
-  <a href="#classical_building-the-solution-architecture">The Solution Architecture</a> &nbsp;&bull;&nbsp;
-  <a href="#mag_right-research">Research</a> &nbsp;&bull;&nbsp;
-  <a href="#computer-running">Running</a> &nbsp;&bull;&nbsp;
-  <a href="#toolbox-tech-stack">Tech Stack</a>
-</p>
-
-<br>
-
 <div align="center">
 
 :construction: <sub>Work in Progress (WIP)</sub>
