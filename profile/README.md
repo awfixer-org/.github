@@ -22,5 +22,5 @@
 ## :mag_right: Research
 
 <details>
-    <summary> Agnostic Obsession </summary>
+    <summary> austin's Obsession </summary>
 </details>
