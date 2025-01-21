@@ -25,7 +25,7 @@
     <summary> austin's Obsession </summary>
 ### austin's obsession
 
-This organization is based  around austin's obsiession with a handful of things:
+This organization is based around austin's obsiession with a handful of things:
 
 - Perfection
 - Efficiency
@@ -43,3 +43,5 @@ and a few other things, but these are the main ones.
 He is working on a few projects that are based around these obsessions, and he is always looking for new projects to work on that are based around these obsessions. There are things like [AWFixer Academy](https://awfixer.academy) and [AWFixer Labs](https://awfixer.labs) that are based around these obsessions, and he is always looking for new projects to work on that are based around these obsessions.
 
 </details>
+
+<p align="left"><img src="https://raw.githubusercontent.com/awfixer-org/.github/main/github-metrics.svg" /></p>
