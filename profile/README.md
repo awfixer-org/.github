@@ -6,7 +6,7 @@
 
 ## :bulb: About
 
-> [!Warning] > **This organization is under constant development and updates, and is never truly stable, we fork out projects to create streams, providing better stablility**
+> [!Warning] **This organization is under constant > development and updates, and is never truly stable, we fork out projects to create streams, providing better stablility**
 
 ### :star: Give a Star!
 
