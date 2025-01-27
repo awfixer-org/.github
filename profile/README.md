@@ -7,7 +7,8 @@
 [![App Platorm](https://internal.cdn.awfixer.dev/internal/10.png)](https://info.awfixer.dev)
 
 ## :bulb: About
->[!Warning] **Due to a list of reasons, all repos in this org that are not forks have been set to private, for more information see [this](https://info.awfixer.dev)**
+>[!Warning] 
+**Due to a list of reasons, all repos in this org that are not forks have been set to private, for more information see [this](https://info.awfixer.dev)**
 
  **This organization is under constant > development and updates, and is never truly stable, we fork out projects to create streams, providing better stablility**
 
