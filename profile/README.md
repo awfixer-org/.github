@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>
-  Organization is currently on life support, check out our <a href="https://awfixer.blog">blog</a> for updates on what we are doing
+      We are currently working on migrating various parts of the organization to Gitlab, utilizing Gitlab for both their runners and the Gitlab Exclusive features that we would like to use before deploying to Production 
   </h1>
 </div>
 
