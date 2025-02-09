@@ -20,11 +20,14 @@ You can also join our <a href="https://discord.gg/awfixer">Discord</a> for more 
 
 <div align="center">
 
-We are currently overhauling the layout of our Organizations(s) as to optimize them to better suite and secure out code. We will be releasing an update about this posted to the <a href="https://forum.awfixer.dev>Forum</a>
-when it is done
+Meet some of our star projects:
+
+<a href="https://github.com/awfixer-org/rustfox>Rustfox</a>
+
+<a href="https://github.com/awfixer-org/it-tools>IT-tools</a>
+
+<a href="https://github.com/awfixer-org/bitstream>Bitstream</a>
+
+<a href="https://github.com/awfixer-org/Blogger>Blogger</a>
 
 </div>
-
-<sub>
-  TEST
-</sub>
