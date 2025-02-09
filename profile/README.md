@@ -22,12 +22,12 @@ You can also join our <a href="https://discord.gg/awfixer">Discord</a> for more 
 
 Meet some of our star projects:
 
-<a href="https://github.com/awfixer-org/rustfox>Rustfox</a>
+<a href="https://github.com/awfixer-org/rustfox">Rustfox</a>
 
-<a href="https://github.com/awfixer-org/it-tools>IT-tools</a>
+<a href="https://github.com/awfixer-org/it-tools">IT-tools</a>
 
-<a href="https://github.com/awfixer-org/bitstream>Bitstream</a>
+<a href="https://github.com/awfixer-org/bitstream">Bitstream</a>
 
-<a href="https://github.com/awfixer-org/Blogger>Blogger</a>
+<a href="https://github.com/awfixer-org/Blogger">Blogger</a>
 
 </div>
