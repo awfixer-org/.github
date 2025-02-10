@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>
-    Welcome to AWFixer Industries :wave:
+    Welcome to AWFixer's Organization :wave:
   </h1>
 </div>
 
