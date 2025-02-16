@@ -20,14 +20,6 @@ You can also join our <a href="https://discord.gg/awfixer">Discord</a> for more 
 
 <div align="center">
 
-Meet some of our star projects:
-
-<a href="https://github.com/awfixer-org/rustfox">Rustfox</a>
-
-<a href="https://github.com/awfixer-org/it-tools">IT-tools</a>
-
-<a href="https://github.com/awfixer-org/bitstream">Bitstream</a>
-
-<a href="https://github.com/awfixer-org/Blogger">Blogger</a>
-
+<h1>
+    Organization is on hold for the time being, see [This Post](https://awfixer.me/blog/why) for details
 </div>
