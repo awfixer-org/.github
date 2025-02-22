@@ -20,6 +20,9 @@ You can also join our <a href="https://discord.gg/awfixer">Discord</a> for more 
 
 <div align="center">
 
-<h1>
-    Organization is on hold for the time being, see [This Post](https://awfixer.me/blog/why) for details
+<img 
+src="https://github.com/awfixer-org/assets/blob/main/Crow's%20Fave's/10.png?raw=true"
+alt="hero image"
+/>
+
 </div>
