@@ -13,8 +13,12 @@
 <div align="center">
 
 <h2>
-You can also join our <a href="https://discord.gg/awfixer">Discord</a> for more info
+You can also join our <a href="https://discord.awfixer.me">Discord</a> for more info
 </h2>
+
+<h3>
+  if you care to know, we are very open and very FOSS but that does not mean that we make free stuff. All violations of our licenses and legal guidelines will be met with legal actions
+</h3>
 
 </div>
 
