@@ -29,4 +29,8 @@ src="https://github.com/awfixer-org/assets/blob/main/Crow's%20Fave's/10.png?raw=
 alt="hero image"
 />
 
+<h2>
+  We are a new company, we are rapidly growing and always looking for talent and investment, you can learn more <a href="https://info.awfixer.com">here</a> 
+</h2>
+
 </div>
