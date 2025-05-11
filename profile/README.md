@@ -94,7 +94,8 @@ For more details about our products, services, or any general information regard
 
 
 
-
+# if you would like to join the organization please fill out this form
+https://awfixer.link/orgapply
 
 <br></br>
 
