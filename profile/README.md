@@ -12,14 +12,6 @@
 
 <div align="center">
 
-<h2>
-You can also join our <a href="https://discord.awfixer.me">Discord</a> for more info
-</h2>
-
-
-<p align="center">
-<a target="_blank" href="https://discord.gg/awfixer"><img src="https://invidget.switchblade.xyz/awfixer" /></a>
-</p>
 <p align="center">
   This Organization contains the <strong>AWFixer Industries Tools, Products, and Projects</strong> source code.
   AWFixer Industries is a bootstrapped open source Company developing things such as <a href="https://awfixer.link"/bitstream>Bitstream</a> <a href="https://awfixer.link/forge">Forged  Codes</a> and more.
@@ -67,7 +59,7 @@ We are always open to feed back and contributions, but please be sure to do it p
 >[!CAUTION]
 > If you do not follow the guidelines for contributing to our projects, we will close your PRs and Issues without comment or review, please be sure you follow our guidelines so we can understand and impliment what you are looking for
 
-Please feel free to contribute by [Donating](https://awfixer.link/donate) or [joining the discussion](https://awfixer.link/discord). Each contribution helps us grow and improve.
+Please feel free to contribute by [Donating](https://awfixer.link/donate). Each contribution helps us grow and improve.
 
 ## Brief Overview of Contributions:
 
