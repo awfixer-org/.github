@@ -82,7 +82,6 @@ For more details about our products, services, or any general information regard
 - **Email**: Send us your inquiries or support requests at [support@awfixer.me](mailto:support@awfixer.me).
 - **Website**: Visit the official AWFixer Industries Landing Page for more information: [AWFixer Industries](https://awfixer.com).
 - **Calls**: you can schedule a paid call [Here](https://cal.com/awfixer)
-- **Community**: you can join our community [here](https://awfixer.link/discord)
 
 
 
