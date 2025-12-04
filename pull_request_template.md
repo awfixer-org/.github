@@ -11,5 +11,13 @@ Fixes #123
 *   [ ] My code builds cleanly without any errors or warnings.
 *   [ ] I have updated the documentation where necessary.
 
+## AI Checklist(if you used ai, if you did not then disreguard): 
+*   [ ] I created a subdirectory in the ai-summaries directory with a copy of the conversation
+*   [ ] I have noted down the model, ide, and plugins used with the LLM
+*   [ ] I have noted down the MCP servers used with AI
+*   [ ] I made a checklist of the files that the AI created when working on the project and added it to a seperate file my subdirectory of ai-summaries
+
+
+
 ## Additional Information
 Any extra information or context for the reviewer (e.g., screenshots, testing steps).
