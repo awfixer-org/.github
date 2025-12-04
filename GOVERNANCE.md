@@ -1,6 +1,6 @@
 [@awfixer-org/friends]: https://github.com/orgs/awfixer-org/teams/friends
 
-# AWBrowse/BrowseOS GOVERNANCE
+# AWFixerORG GOVERNANCE
 
 this github organization is owned and operated by AWFixer and Friends Inc.
 
