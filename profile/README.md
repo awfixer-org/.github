@@ -1,9 +1,13 @@
-This org is a home to shared projects for things accross all of our products and services. network infra will be stored here, as well as security software and related items.
+<div align="center">
 
-Projects Contained here:
+<h1> AWFixer and Friends </h1>
 
-renovate+gitea: we will be modifying these to create the new place for hosting our software.
+<p> Fixing the world, one friendship at a time </p>
 
-hickorydns+tailscale+shadowsocks+other networking projects: these are going to be modified, combined and turned into an internet security suite that is both bundles with our operating systems and also offered as a service to people who want to be more secure.
+we currently have a community on [Discord](https://discord.awfixer.com) though there is plans to build our own chat platform in the future.
 
-decentralized infra management and access software: we never plan on centralizing so we are building system that we can use to unite our team and contributers from around the world securely and efficently.
+we have major projects in this org like our fork of stoat, our networking work, AWFixerOS and more. Questions are to be directed to either the Discord or the Discussions of each repo.
+
+</div>
+
+
