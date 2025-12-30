@@ -8,6 +8,9 @@ we currently have a community on [Discord](https://discord.awfixer.com) though t
 
 we have major projects in this org like our fork of stoat, our networking work, AWFixerOS and more. Questions are to be directed to either the Discord or the Discussions of each repo.
 
+Our goal is to create new and improved versions of things like Operating Systems, Hardware, Networking, etc. Because the internet needs to modernize, or become obsolete.
+
 </div>
+
 
 
